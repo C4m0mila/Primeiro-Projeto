@@ -1,7 +1,7 @@
 # Primeiro-Projeto
 Projeto Resilia: Quem não é visto não é lembrado!
 
-<h3>DESAFIO:</h3>:
+<h3>DESAFIO:</h3>
 Criar uma página de apresentação individual utilizando HTML e CSS.
 
 <h3>REQUISITOS:</h3>
