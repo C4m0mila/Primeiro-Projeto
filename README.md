@@ -1,16 +1,14 @@
 # Primeiro-Projeto
 Projeto Resilia: Quem não é visto não é lembrado!
 
-#DESAFIO:
+# DESAFIO:
 Criar uma página de apresentação individual utilizando HTML e CSS.
 
-#REQUISITOS:
-⇨ O projeto deve usar uma estrutura de pastas separadas para os
-arquivos CSS e para as imagens. Os arquivos HTML podem ficar na raiz do projeto.<br>
-A página de apresentação individual deve conter 3 seções linkadasno topo do site:
+# REQUISITOS:
+⇨ O projeto deve usar uma estrutura de pastas separadas para os arquivos CSS e para as imagens. Os arquivos HTML podem ficar na raiz do projeto.<br>
+⇨ A página de apresentação individual deve conter 3 seções linkadasno topo do site:<br>
 ◼ resumo/quem é você;<br>
 ◼ hobbie e interesses;<br>
-◼ um formulário de contato (que não vai enviar<br>
-mensagem por enquanto, só simular mesmo).<br>
+◼ um formulário de contato (que não vai enviar mensagem por enquanto, só simular mesmo).<br><br>
 ⇨ O projeto desenvolvido deve ser fornecido em repositório no GitHub.
 
